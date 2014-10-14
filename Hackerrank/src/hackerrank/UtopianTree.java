@@ -1,5 +1,5 @@
-
 package hackerrank;
+
 import java.util.Scanner;
 
 public class UtopianTree {
